@@ -1,0 +1,1 @@
+This is one of the assignment part of the course which i am doing from Coursera-HTML,CSS and Javascript for web developers.In this i want to display the desktop, tablet and mobile version according to the width of the browser window.
